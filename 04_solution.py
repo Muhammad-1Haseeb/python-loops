@@ -1,4 +1,4 @@
-input_str = "Python"
+input_str = "Haseeb"
 
 reversed_str = ""
 

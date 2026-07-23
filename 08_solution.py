@@ -1,4 +1,4 @@
-number = 6
+number = 2
 is_prime = True
 
 if number > 1:

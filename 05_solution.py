@@ -3,6 +3,6 @@ input_str = "ananafghfghy"
 for char in input_str:
     print(char)
     if input_str.count(char)== 1:
-        print("Non repeated Char: ", char)
+        print("Non repeated Character: ", char)
         break
 

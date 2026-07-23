@@ -6,5 +6,5 @@ while number > 0:
     number -= 1 
 
 
-print("Factorial is: ",factorial)
+print("Factorial is a: ",factorial)
 

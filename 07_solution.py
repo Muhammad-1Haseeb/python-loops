@@ -4,4 +4,4 @@ while True:
         print("Thanks")
         break
     else:
-        print("Invalid input, Try again.")
+        print("Invalid input,Please Try again.")
